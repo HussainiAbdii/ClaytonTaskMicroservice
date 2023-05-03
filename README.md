@@ -1,1 +1,1 @@
-# ClaytonTaskMicroservice
+Task Managemment microservice developed for Clayton with Java. The code follows SOLID princeiples with unit tests written using JUnit. Api documentation is also provided using Swagger and can be viewed at http://localhost:9090/swagger-ui.html. Application is run on port 9090. The project also contains a global exception handler and uniform ApiResponse.
